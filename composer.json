@@ -1,0 +1,13 @@
+{
+    "name": "megahard/file-storages",
+    "description": "Description of project FileStorages.",
+    "authors": [
+        {
+            "name": "kuzma",
+            "email": "kuzma.bakulin@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.4.1"
+    }
+}
